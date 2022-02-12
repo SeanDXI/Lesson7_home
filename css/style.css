@@ -1,0 +1,28 @@
+@import "null.css";
+
+.wrapper{min-height: 100%; overflow: hidden;}
+
+@import url('https://fonts.googleapis.com/css2?family=ABeeZee&display=swap');
+
+.text{font-family: 'ABeeZee', sans-serif; font-style: normal; font-weight: 400; font-size: 25px; text-align: center; line-height: 1.6; text-shadow: 0px 0px 1px black;}
+
+.text1{font-family: 'ABeeZee', sans-serif; font-style: normal; font-weight: 400; font-size: 25px; text-align: left; line-height: 1.6; text-shadow: 0px 0px 3px black; padding-left: 40px;}
+
+.col1{color: coral;}
+.col2{color: aqua;}
+.col3{color: chartreuse;}
+.col4{color: crimson;}
+
+.fon{background: greenyellow;}
+
+.line{background: url("../img/8.png") 0 0 / 16px round; height: 20px;}
+
+.fon1{ background: url("../img/5.png") center / cover no-repeat; margin: 8px; padding: 5%;}
+
+.fon2{ background: url("../img/1.png") 0 0 /25px repeat-x, url("../img/3.png") bottom left /25px repeat-x, url("../img/2.png") top right /25px repeat-y, url("../img/4.png") 0 0 /25px repeat-y, radial-gradient(circle, rgba(255,0,224,0) 0%, rgba(177,26,159,1) 35%, rgba(16,159,112,1) 100%) center / cover no-repeat; margin: 8px; padding: 40px;}
+
+.fon3{ background: url("../img/1.png") 10% 98% / 10% no-repeat, url("../img/3.png") bottom right / 10% no-repeat, url("../img/1.png") left top / 80px repeat-x, url("../img/2.png") center / contain no-repeat, url("../img/6.png") center / cover no-repeat; margin: 8px; padding: 10%;}
+
+.fon4{ background: url("../img/8.png") center / cover no-repeat; margin: 8px; padding: 5%;}
+
+.fon5{ background: url("../img/9.png") 0 5px / 30px no-repeat;}
